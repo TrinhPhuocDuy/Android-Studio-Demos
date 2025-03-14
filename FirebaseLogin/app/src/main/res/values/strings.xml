@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FirebaseLogin</string>
+    <string name="login">Login</string>
+    <string name="username">Username:</string>
+    <string name="password">Password:</string>
+    <string name="enter_your_username">Enter your username</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="already_have_an_account_sign_in">Already have an account? Sign in</string>
+    <string name="or">Or</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="sign_in_with_phone_otp">Sign in with Phone OTP</string>
+    <string name="sign_up">Sign up</string>
+    <string name="have_an_account_already_back_to_log_in">Have an account already? Back to log in</string>
+    <string name="hello">Hello</string>
+    <string name="button">Button</string>
+    <string name="logout">logout</string>
+</resources>

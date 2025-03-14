@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "940591495857",
+    "project_id": "fir-login-c9b40",
+    "storage_bucket": "fir-login-c9b40.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940591495857:android:59628b4a6150fdfbd40090",
+        "android_client_info": {
+          "package_name": "com.example.firebaselogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940591495857-15vcn8nlsot89utthdqa2a1gi8kug7rk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebaselogin",
+            "certificate_hash": "1383bfa35eb8eb4cde77ff9df50164b51d3ce3c4"
+          }
+        },
+        {
+          "client_id": "940591495857-944afmpkn2u4ne05grj4du2kc2reug05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIyIHFWFIEnALFeDLkb_e52rFJKvMQIog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940591495857-944afmpkn2u4ne05grj4du2kc2reug05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
